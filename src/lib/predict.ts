@@ -16,7 +16,13 @@ function getSession() {
     sessionPromise = (async () => {
       const ort = await import("onnxruntime-web");
       ort.env.wasm.wasmPaths = `https://cdn.jsdelivr.net/npm/onnxruntime-web@${ORT_VERSION}/dist/`;
-      const session = await ort.InferenceSession.create(modelAsset.url);
+      // const session = await ort.InferenceSession.create(modelAsset.url); 러버블용 코드
+      // 버셀 배포 코드로 수정
+      const session = await ort.InferenceSession.create("/bus_model.onnx");
+
+
+
+      
       return { ort, session };
     })().catch((e) => { sessionPromise = null; throw e; });
   }
