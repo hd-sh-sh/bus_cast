@@ -1,0 +1,3020 @@
+[
+  {
+    "stop_id": 23101,
+    "stop_name": "신사중학교",
+    "peak_hour": 9,
+    "avg_total": 4608.0
+  },
+  {
+    "stop_id": 23102,
+    "stop_name": "신사중학교",
+    "peak_hour": 18,
+    "avg_total": 3710.0
+  },
+  {
+    "stop_id": 23103,
+    "stop_name": "광림교회.현대고등학교",
+    "peak_hour": 16,
+    "avg_total": 3085.9
+  },
+  {
+    "stop_id": 23104,
+    "stop_name": "광림교회.현대고등학교",
+    "peak_hour": 16,
+    "avg_total": 2711.5
+  },
+  {
+    "stop_id": 23105,
+    "stop_name": "압구정역4번출구",
+    "peak_hour": 8,
+    "avg_total": 4122.5
+  },
+  {
+    "stop_id": 23106,
+    "stop_name": "국민은행압구정종합금융센터",
+    "peak_hour": 18,
+    "avg_total": 2286.6
+  },
+  {
+    "stop_id": 23107,
+    "stop_name": "신사동고개",
+    "peak_hour": 18,
+    "avg_total": 2111.0
+  },
+  {
+    "stop_id": 23108,
+    "stop_name": "신사역8번출구.가로수길",
+    "peak_hour": 18,
+    "avg_total": 4406.4
+  },
+  {
+    "stop_id": 23109,
+    "stop_name": "신사역6번출구",
+    "peak_hour": 9,
+    "avg_total": 767.0
+  },
+  {
+    "stop_id": 23110,
+    "stop_name": "신사역3번출구",
+    "peak_hour": 9,
+    "avg_total": 3976.6
+  },
+  {
+    "stop_id": 23111,
+    "stop_name": "신사역1번출구",
+    "peak_hour": 9,
+    "avg_total": 3870.1
+  },
+  {
+    "stop_id": 23112,
+    "stop_name": "신사동고개",
+    "peak_hour": 9,
+    "avg_total": 2453.2
+  },
+  {
+    "stop_id": 23113,
+    "stop_name": "강남을지병원",
+    "peak_hour": 18,
+    "avg_total": 2244.9
+  },
+  {
+    "stop_id": 23114,
+    "stop_name": "학동역",
+    "peak_hour": 8,
+    "avg_total": 3455.2
+  },
+  {
+    "stop_id": 23115,
+    "stop_name": "학동역6번출구",
+    "peak_hour": 18,
+    "avg_total": 1066.5
+  },
+  {
+    "stop_id": 23116,
+    "stop_name": "영동시장",
+    "peak_hour": 18,
+    "avg_total": 733.2
+  },
+  {
+    "stop_id": 23117,
+    "stop_name": "영동시장.논현역1번출구",
+    "peak_hour": 8,
+    "avg_total": 1569.8
+  },
+  {
+    "stop_id": 23118,
+    "stop_name": "학동역5번출구",
+    "peak_hour": 8,
+    "avg_total": 2231.6
+  },
+  {
+    "stop_id": 23119,
+    "stop_name": "논현동고개",
+    "peak_hour": 8,
+    "avg_total": 1988.0
+  },
+  {
+    "stop_id": 23120,
+    "stop_name": "삼정호텔",
+    "peak_hour": 8,
+    "avg_total": 563.0
+  },
+  {
+    "stop_id": 23121,
+    "stop_name": "신논현역3번출구",
+    "peak_hour": 18,
+    "avg_total": 757.7
+  },
+  {
+    "stop_id": 23122,
+    "stop_name": "신논현역3번출구.교보타워사거리",
+    "peak_hour": 9,
+    "avg_total": 1373.0
+  },
+  {
+    "stop_id": 23123,
+    "stop_name": "영동시장.논현역3번출구",
+    "peak_hour": 18,
+    "avg_total": 1537.0
+  },
+  {
+    "stop_id": 23124,
+    "stop_name": "언북중학교입구",
+    "peak_hour": 8,
+    "avg_total": 1870.2
+  },
+  {
+    "stop_id": 23125,
+    "stop_name": "도산공원사거리.호림아트센터",
+    "peak_hour": 9,
+    "avg_total": 2612.9
+  },
+  {
+    "stop_id": 23126,
+    "stop_name": "영동119안전센터",
+    "peak_hour": 18,
+    "avg_total": 1689.1
+  },
+  {
+    "stop_id": 23127,
+    "stop_name": "강남구청역",
+    "peak_hour": 18,
+    "avg_total": 2738.9
+  },
+  {
+    "stop_id": 23128,
+    "stop_name": "강남구청역",
+    "peak_hour": 8,
+    "avg_total": 1128.8
+  },
+  {
+    "stop_id": 23129,
+    "stop_name": "세관앞",
+    "peak_hour": 8,
+    "avg_total": 635.1
+  },
+  {
+    "stop_id": 23130,
+    "stop_name": "서울세관",
+    "peak_hour": 18,
+    "avg_total": 434.8
+  },
+  {
+    "stop_id": 23131,
+    "stop_name": "서울세관",
+    "peak_hour": 8,
+    "avg_total": 558.6
+  },
+  {
+    "stop_id": 23132,
+    "stop_name": "학동역",
+    "peak_hour": 9,
+    "avg_total": 3783.5
+  },
+  {
+    "stop_id": 23133,
+    "stop_name": "강남을지병원",
+    "peak_hour": 9,
+    "avg_total": 1889.2
+  },
+  {
+    "stop_id": 23134,
+    "stop_name": "세관앞",
+    "peak_hour": 18,
+    "avg_total": 785.0
+  },
+  {
+    "stop_id": 23135,
+    "stop_name": "강남구청역",
+    "peak_hour": 18,
+    "avg_total": 656.2
+  },
+  {
+    "stop_id": 23136,
+    "stop_name": "한국토지주택공사앞",
+    "peak_hour": 8,
+    "avg_total": 920.1
+  },
+  {
+    "stop_id": 23137,
+    "stop_name": "선정릉역1번출구.시니어플라자",
+    "peak_hour": 9,
+    "avg_total": 255.6
+  },
+  {
+    "stop_id": 23138,
+    "stop_name": "아크로힐스논현",
+    "peak_hour": 9,
+    "avg_total": 263.2
+  },
+  {
+    "stop_id": 23139,
+    "stop_name": "논현아이파크",
+    "peak_hour": 8,
+    "avg_total": 859.6
+  },
+  {
+    "stop_id": 23140,
+    "stop_name": "임피리얼팰리스호텔.팬트힐루논현",
+    "peak_hour": 18,
+    "avg_total": 572.5
+  },
+  {
+    "stop_id": 23141,
+    "stop_name": "펜트힐루논현.임피리얼팰리스호텔",
+    "peak_hour": 8,
+    "avg_total": 1262.0
+  },
+  {
+    "stop_id": 23142,
+    "stop_name": "논현아이파크",
+    "peak_hour": 8,
+    "avg_total": 842.8
+  },
+  {
+    "stop_id": 23143,
+    "stop_name": "국민은행논현동지점",
+    "peak_hour": 18,
+    "avg_total": 442.6
+  },
+  {
+    "stop_id": 23144,
+    "stop_name": "언주역4번출구.차병원사거리",
+    "peak_hour": 18,
+    "avg_total": 199.8
+  },
+  {
+    "stop_id": 23145,
+    "stop_name": "언주역3번출구",
+    "peak_hour": 8,
+    "avg_total": 1700.4
+  },
+  {
+    "stop_id": 23146,
+    "stop_name": "논현고개",
+    "peak_hour": 8,
+    "avg_total": 1320.0
+  },
+  {
+    "stop_id": 23147,
+    "stop_name": "서울세관사거리",
+    "peak_hour": 18,
+    "avg_total": 336.2
+  },
+  {
+    "stop_id": 23148,
+    "stop_name": "현대아파트",
+    "peak_hour": 18,
+    "avg_total": 5799.7
+  },
+  {
+    "stop_id": 23149,
+    "stop_name": "현대아파트",
+    "peak_hour": 8,
+    "avg_total": 7351.6
+  },
+  {
+    "stop_id": 23150,
+    "stop_name": "고속철도수서역",
+    "peak_hour": 8,
+    "avg_total": 3663.0
+  },
+  {
+    "stop_id": 23151,
+    "stop_name": "신사동교회",
+    "peak_hour": 18,
+    "avg_total": 1748.0
+  },
+  {
+    "stop_id": 23152,
+    "stop_name": "도산공원",
+    "peak_hour": 18,
+    "avg_total": 765.3
+  },
+  {
+    "stop_id": 23153,
+    "stop_name": "신구중학교",
+    "peak_hour": 18,
+    "avg_total": 929.1
+  },
+  {
+    "stop_id": 23154,
+    "stop_name": "압구정중고등학교.현대아파트",
+    "peak_hour": 8,
+    "avg_total": 985.3
+  },
+  {
+    "stop_id": 23155,
+    "stop_name": "도산공원사거리",
+    "peak_hour": 18,
+    "avg_total": 2237.0
+  },
+  {
+    "stop_id": 23156,
+    "stop_name": "압구정파출소",
+    "peak_hour": 18,
+    "avg_total": 3495.0
+  },
+  {
+    "stop_id": 23157,
+    "stop_name": "압구정파출소",
+    "peak_hour": 18,
+    "avg_total": 4498.4
+  },
+  {
+    "stop_id": 23158,
+    "stop_name": "한양아파트.압구정로데오역",
+    "peak_hour": 18,
+    "avg_total": 5830.9
+  },
+  {
+    "stop_id": 23159,
+    "stop_name": "한양아파트.압구정로데오역",
+    "peak_hour": 9,
+    "avg_total": 5160.5
+  },
+  {
+    "stop_id": 23160,
+    "stop_name": "일지아트홀",
+    "peak_hour": 18,
+    "avg_total": 3699.2
+  },
+  {
+    "stop_id": 23161,
+    "stop_name": "씨네시티앞",
+    "peak_hour": 18,
+    "avg_total": 3619.0
+  },
+  {
+    "stop_id": 23162,
+    "stop_name": "도산공원",
+    "peak_hour": 9,
+    "avg_total": 1276.7
+  },
+  {
+    "stop_id": 23163,
+    "stop_name": "신구중학교",
+    "peak_hour": 18,
+    "avg_total": 1012.2
+  },
+  {
+    "stop_id": 23164,
+    "stop_name": "성수대교남단.현대아파트",
+    "peak_hour": 18,
+    "avg_total": 1240.2
+  },
+  {
+    "stop_id": 23165,
+    "stop_name": "청담초등학교",
+    "peak_hour": 18,
+    "avg_total": 1580.2
+  },
+  {
+    "stop_id": 23166,
+    "stop_name": "청담동주민센터",
+    "peak_hour": 9,
+    "avg_total": 6050.9
+  },
+  {
+    "stop_id": 23167,
+    "stop_name": "청담동주민센터",
+    "peak_hour": 18,
+    "avg_total": 5510.9
+  },
+  {
+    "stop_id": 23168,
+    "stop_name": "영동교입구.청담자이아파트",
+    "peak_hour": 8,
+    "avg_total": 915.7
+  },
+  {
+    "stop_id": 23169,
+    "stop_name": "영동교입구",
+    "peak_hour": 18,
+    "avg_total": 2492.9
+  },
+  {
+    "stop_id": 23170,
+    "stop_name": "청담역.경기고교",
+    "peak_hour": 8,
+    "avg_total": 2352.3
+  },
+  {
+    "stop_id": 23171,
+    "stop_name": "우리은행청담지점.청담삼익아파트",
+    "peak_hour": 8,
+    "avg_total": 1554.1
+  },
+  {
+    "stop_id": 23172,
+    "stop_name": "청담역.경기고교",
+    "peak_hour": 18,
+    "avg_total": 2352.1
+  },
+  {
+    "stop_id": 23173,
+    "stop_name": "진흥아파트",
+    "peak_hour": 8,
+    "avg_total": 1948.5
+  },
+  {
+    "stop_id": 23174,
+    "stop_name": "청담동성당",
+    "peak_hour": 9,
+    "avg_total": 963.2
+  },
+  {
+    "stop_id": 23175,
+    "stop_name": "청담2치안센터",
+    "peak_hour": 9,
+    "avg_total": 819.1
+  },
+  {
+    "stop_id": 23176,
+    "stop_name": "강남구청.강남세무서",
+    "peak_hour": 18,
+    "avg_total": 3568.5
+  },
+  {
+    "stop_id": 23177,
+    "stop_name": "청담동래미안아파트",
+    "peak_hour": 18,
+    "avg_total": 1898.5
+  },
+  {
+    "stop_id": 23178,
+    "stop_name": "강남구청역",
+    "peak_hour": 9,
+    "avg_total": 3369.1
+  },
+  {
+    "stop_id": 23180,
+    "stop_name": "농협앞",
+    "peak_hour": 9,
+    "avg_total": 1732.5
+  },
+  {
+    "stop_id": 23181,
+    "stop_name": "일지아트홀.압구정노인복지관",
+    "peak_hour": 9,
+    "avg_total": 3928.5
+  },
+  {
+    "stop_id": 23182,
+    "stop_name": "청담초등학교앞",
+    "peak_hour": 9,
+    "avg_total": 2212.5
+  },
+  {
+    "stop_id": 23183,
+    "stop_name": "청담2치안센터",
+    "peak_hour": 18,
+    "avg_total": 967.8
+  },
+  {
+    "stop_id": 23184,
+    "stop_name": "청담동성당",
+    "peak_hour": 18,
+    "avg_total": 429.2
+  },
+  {
+    "stop_id": 23185,
+    "stop_name": "차병원차움",
+    "peak_hour": 9,
+    "avg_total": 1321.9
+  },
+  {
+    "stop_id": 23186,
+    "stop_name": "진흥아파트청담역",
+    "peak_hour": 8,
+    "avg_total": 3033.3
+  },
+  {
+    "stop_id": 23187,
+    "stop_name": "청담역.경기고교",
+    "peak_hour": 8,
+    "avg_total": 1987.0
+  },
+  {
+    "stop_id": 23188,
+    "stop_name": "청담역.경기고교",
+    "peak_hour": 18,
+    "avg_total": 1121.3
+  },
+  {
+    "stop_id": 23189,
+    "stop_name": "봉은사.삼성1파출소앞",
+    "peak_hour": 8,
+    "avg_total": 6675.0
+  },
+  {
+    "stop_id": 23190,
+    "stop_name": "봉은사.코엑스북문",
+    "peak_hour": 18,
+    "avg_total": 600.4
+  },
+  {
+    "stop_id": 23191,
+    "stop_name": "봉은사.코엑스북문",
+    "peak_hour": 12,
+    "avg_total": 391.3
+  },
+  {
+    "stop_id": 23192,
+    "stop_name": "봉은사역3번출구.삼성1파출소",
+    "peak_hour": 18,
+    "avg_total": 7498.1
+  },
+  {
+    "stop_id": 23193,
+    "stop_name": "봉은사역5번출구.광동병원",
+    "peak_hour": 8,
+    "avg_total": 599.4
+  },
+  {
+    "stop_id": 23194,
+    "stop_name": "노블발렌티웨딩홀",
+    "peak_hour": 8,
+    "avg_total": 397.7
+  },
+  {
+    "stop_id": 23195,
+    "stop_name": "서울의료원강남분원",
+    "peak_hour": 18,
+    "avg_total": 146.9
+  },
+  {
+    "stop_id": 23196,
+    "stop_name": "강남경찰서면허시험장",
+    "peak_hour": 8,
+    "avg_total": 2510.6
+  },
+  {
+    "stop_id": 23197,
+    "stop_name": "삼성역7번출구",
+    "peak_hour": 18,
+    "avg_total": 5729.7
+  },
+  {
+    "stop_id": 23198,
+    "stop_name": "무역센터",
+    "peak_hour": 18,
+    "avg_total": 4041.3
+  },
+  {
+    "stop_id": 23199,
+    "stop_name": "무역센터",
+    "peak_hour": 18,
+    "avg_total": 2403.0
+  },
+  {
+    "stop_id": 23200,
+    "stop_name": "강남구보건소",
+    "peak_hour": 8,
+    "avg_total": 1387.7
+  },
+  {
+    "stop_id": 23201,
+    "stop_name": "한국무역센터.삼성역",
+    "peak_hour": 18,
+    "avg_total": 4404.7
+  },
+  {
+    "stop_id": 23202,
+    "stop_name": "포스코사거리",
+    "peak_hour": 18,
+    "avg_total": 1958.7
+  },
+  {
+    "stop_id": 23203,
+    "stop_name": "한별구립어린이집",
+    "peak_hour": 18,
+    "avg_total": 1289.4
+  },
+  {
+    "stop_id": 23204,
+    "stop_name": "센트럴아이파크.강남구도시관리공단",
+    "peak_hour": 18,
+    "avg_total": 1307.0
+  },
+  {
+    "stop_id": 23205,
+    "stop_name": "삼성동서광아파트",
+    "peak_hour": 8,
+    "avg_total": 2750.2
+  },
+  {
+    "stop_id": 23206,
+    "stop_name": "강남구청.강남세무서",
+    "peak_hour": 8,
+    "avg_total": 2856.1
+  },
+  {
+    "stop_id": 23207,
+    "stop_name": "청담역7번출구",
+    "peak_hour": 8,
+    "avg_total": 1379.2
+  },
+  {
+    "stop_id": 23208,
+    "stop_name": "센트럴아이파크.강남구도시관리공단",
+    "peak_hour": 16,
+    "avg_total": 885.1
+  },
+  {
+    "stop_id": 23209,
+    "stop_name": "한별구립어린이집",
+    "peak_hour": 8,
+    "avg_total": 1135.5
+  },
+  {
+    "stop_id": 23210,
+    "stop_name": "삼성중앙역.플래티넘아파트",
+    "peak_hour": 8,
+    "avg_total": 1036.2
+  },
+  {
+    "stop_id": 23211,
+    "stop_name": "삼성중앙역.플래티넘아파트",
+    "peak_hour": 9,
+    "avg_total": 777.8
+  },
+  {
+    "stop_id": 23212,
+    "stop_name": "삼성2문화센터",
+    "peak_hour": 9,
+    "avg_total": 577.2
+  },
+  {
+    "stop_id": 23213,
+    "stop_name": "삼성2문화센터",
+    "peak_hour": 9,
+    "avg_total": 616.1
+  },
+  {
+    "stop_id": 23214,
+    "stop_name": "선릉역8번출구.선정릉",
+    "peak_hour": 9,
+    "avg_total": 2611.8
+  },
+  {
+    "stop_id": 23215,
+    "stop_name": "선정릉역.국가무형유산전수교육관",
+    "peak_hour": 9,
+    "avg_total": 2017.7
+  },
+  {
+    "stop_id": 23216,
+    "stop_name": "한국토지주택공사앞",
+    "peak_hour": 9,
+    "avg_total": 1177.6
+  },
+  {
+    "stop_id": 23217,
+    "stop_name": "포스코건너편",
+    "peak_hour": 18,
+    "avg_total": 4187.0
+  },
+  {
+    "stop_id": 23218,
+    "stop_name": "선릉역",
+    "peak_hour": 18,
+    "avg_total": 3347.3
+  },
+  {
+    "stop_id": 23219,
+    "stop_name": "도곡역2번출구.동부센트레빌",
+    "peak_hour": 16,
+    "avg_total": 904.5
+  },
+  {
+    "stop_id": 23220,
+    "stop_name": "중대부고",
+    "peak_hour": 16,
+    "avg_total": 1872.6
+  },
+  {
+    "stop_id": 23221,
+    "stop_name": "단대부고.대치아이파크아파트",
+    "peak_hour": 15,
+    "avg_total": 1436.5
+  },
+  {
+    "stop_id": 23222,
+    "stop_name": "한티역3번출구.서울강남고용노동지청",
+    "peak_hour": 17,
+    "avg_total": 4387.6
+  },
+  {
+    "stop_id": 23223,
+    "stop_name": "삼성아파트입구",
+    "peak_hour": 17,
+    "avg_total": 4891.4
+  },
+  {
+    "stop_id": 23224,
+    "stop_name": "농협대치지점",
+    "peak_hour": 22,
+    "avg_total": 4138.9
+  },
+  {
+    "stop_id": 23225,
+    "stop_name": "대치SKVIEW아파트.서울교회",
+    "peak_hour": 16,
+    "avg_total": 1710.7
+  },
+  {
+    "stop_id": 23226,
+    "stop_name": "대치역1번출구",
+    "peak_hour": 22,
+    "avg_total": 2663.0
+  },
+  {
+    "stop_id": 23227,
+    "stop_name": "래미안대치팰리스",
+    "peak_hour": 18,
+    "avg_total": 1347.0
+  },
+  {
+    "stop_id": 23228,
+    "stop_name": "도곡역3번출구",
+    "peak_hour": 15,
+    "avg_total": 1060.5
+  },
+  {
+    "stop_id": 23229,
+    "stop_name": "대치동우성아파트",
+    "peak_hour": 16,
+    "avg_total": 1176.4
+  },
+  {
+    "stop_id": 23230,
+    "stop_name": "대치역8번출구",
+    "peak_hour": 16,
+    "avg_total": 1760.1
+  },
+  {
+    "stop_id": 23231,
+    "stop_name": "대치역7번출구.선경아파트",
+    "peak_hour": 22,
+    "avg_total": 1239.4
+  },
+  {
+    "stop_id": 23232,
+    "stop_name": "대청중학교",
+    "peak_hour": 8,
+    "avg_total": 2348.6
+  },
+  {
+    "stop_id": 23233,
+    "stop_name": "은마아파트",
+    "peak_hour": 17,
+    "avg_total": 3290.9
+  },
+  {
+    "stop_id": 23234,
+    "stop_name": "은마치안센터",
+    "peak_hour": 17,
+    "avg_total": 2143.8
+  },
+  {
+    "stop_id": 23235,
+    "stop_name": "은마아파트",
+    "peak_hour": 22,
+    "avg_total": 1467.8
+  },
+  {
+    "stop_id": 23236,
+    "stop_name": "대치동은마아파트",
+    "peak_hour": 18,
+    "avg_total": 2039.5
+  },
+  {
+    "stop_id": 23237,
+    "stop_name": "은마아파트",
+    "peak_hour": 8,
+    "avg_total": 1427.0
+  },
+  {
+    "stop_id": 23238,
+    "stop_name": "대치동미도아파트",
+    "peak_hour": 16,
+    "avg_total": 1381.8
+  },
+  {
+    "stop_id": 23239,
+    "stop_name": "대치역6번출구.강남구민회관",
+    "peak_hour": 17,
+    "avg_total": 1377.2
+  },
+  {
+    "stop_id": 23240,
+    "stop_name": "쌍용아파트",
+    "peak_hour": 8,
+    "avg_total": 1960.0
+  },
+  {
+    "stop_id": 23241,
+    "stop_name": "선릉역",
+    "peak_hour": 18,
+    "avg_total": 234.9
+  },
+  {
+    "stop_id": 23242,
+    "stop_name": "삼성역",
+    "peak_hour": 18,
+    "avg_total": 3633.0
+  },
+  {
+    "stop_id": 23243,
+    "stop_name": "강남경찰서.강남운전면허시험장",
+    "peak_hour": 18,
+    "avg_total": 1293.7
+  },
+  {
+    "stop_id": 23244,
+    "stop_name": "삼성역",
+    "peak_hour": 8,
+    "avg_total": 3178.0
+  },
+  {
+    "stop_id": 23245,
+    "stop_name": "휘문고교사거리",
+    "peak_hour": 8,
+    "avg_total": 1374.0
+  },
+  {
+    "stop_id": 23246,
+    "stop_name": "래미안하이스턴.대치순복음교회",
+    "peak_hour": 17,
+    "avg_total": 1851.3
+  },
+  {
+    "stop_id": 23247,
+    "stop_name": "대치현대아파트",
+    "peak_hour": 17,
+    "avg_total": 2659.5
+  },
+  {
+    "stop_id": 23248,
+    "stop_name": "휘문중고등학교",
+    "peak_hour": 8,
+    "avg_total": 1795.6
+  },
+  {
+    "stop_id": 23249,
+    "stop_name": "휘문중고등학교",
+    "peak_hour": 8,
+    "avg_total": 2138.0
+  },
+  {
+    "stop_id": 23250,
+    "stop_name": "대치사거리",
+    "peak_hour": 17,
+    "avg_total": 1609.6
+  },
+  {
+    "stop_id": 23251,
+    "stop_name": "무역센터.삼성역",
+    "peak_hour": 18,
+    "avg_total": 3122.7
+  },
+  {
+    "stop_id": 23252,
+    "stop_name": "한티역",
+    "peak_hour": 16,
+    "avg_total": 3093.8
+  },
+  {
+    "stop_id": 23253,
+    "stop_name": "도성초등학교",
+    "peak_hour": 8,
+    "avg_total": 2086.5
+  },
+  {
+    "stop_id": 23254,
+    "stop_name": "도성초교사거리",
+    "peak_hour": 16,
+    "avg_total": 707.3
+  },
+  {
+    "stop_id": 23255,
+    "stop_name": "영동농협풍림아이원아파트",
+    "peak_hour": 17,
+    "avg_total": 913.2
+  },
+  {
+    "stop_id": 23256,
+    "stop_name": "영동농협풍림아이원아파트",
+    "peak_hour": 17,
+    "avg_total": 709.6
+  },
+  {
+    "stop_id": 23257,
+    "stop_name": "도성초교사거리",
+    "peak_hour": 18,
+    "avg_total": 469.5
+  },
+  {
+    "stop_id": 23258,
+    "stop_name": "진선여자중고등학교",
+    "peak_hour": 8,
+    "avg_total": 2848.7
+  },
+  {
+    "stop_id": 23259,
+    "stop_name": "선릉역",
+    "peak_hour": 8,
+    "avg_total": 5567.2
+  },
+  {
+    "stop_id": 23260,
+    "stop_name": "포스코빌딩",
+    "peak_hour": 8,
+    "avg_total": 3750.7
+  },
+  {
+    "stop_id": 23261,
+    "stop_name": "대치사거리",
+    "peak_hour": 8,
+    "avg_total": 1048.6
+  },
+  {
+    "stop_id": 23262,
+    "stop_name": "대치동현대아파트",
+    "peak_hour": 17,
+    "avg_total": 2321.2
+  },
+  {
+    "stop_id": 23263,
+    "stop_name": "은마아파트입구사거리",
+    "peak_hour": 17,
+    "avg_total": 5162.8
+  },
+  {
+    "stop_id": 23264,
+    "stop_name": "도곡초등학교",
+    "peak_hour": 17,
+    "avg_total": 2072.3
+  },
+  {
+    "stop_id": 23265,
+    "stop_name": "한티역2번출구.서울강남고용노동지청",
+    "peak_hour": 18,
+    "avg_total": 3128.1
+  },
+  {
+    "stop_id": 23266,
+    "stop_name": "신논현역4번출구",
+    "peak_hour": 8,
+    "avg_total": 727.0
+  },
+  {
+    "stop_id": 23267,
+    "stop_name": "삼정호텔앞",
+    "peak_hour": 9,
+    "avg_total": 303.3
+  },
+  {
+    "stop_id": 23268,
+    "stop_name": "차병원",
+    "peak_hour": 9,
+    "avg_total": 1801.0
+  },
+  {
+    "stop_id": 23269,
+    "stop_name": "차병원",
+    "peak_hour": 8,
+    "avg_total": 2069.5
+  },
+  {
+    "stop_id": 23270,
+    "stop_name": "언주역5번출구.차병원사거리",
+    "peak_hour": 8,
+    "avg_total": 604.5
+  },
+  {
+    "stop_id": 23271,
+    "stop_name": "시티프라디움더강남.라움아트센터",
+    "peak_hour": 8,
+    "avg_total": 1105.5
+  },
+  {
+    "stop_id": 23272,
+    "stop_name": "라움아트센터.시티프라디움더강남",
+    "peak_hour": 18,
+    "avg_total": 788.0
+  },
+  {
+    "stop_id": 23273,
+    "stop_name": "아크로힐스논현",
+    "peak_hour": 9,
+    "avg_total": 410.4
+  },
+  {
+    "stop_id": 23274,
+    "stop_name": "선정릉역4번출구.시니어플라자",
+    "peak_hour": 15,
+    "avg_total": 119.8
+  },
+  {
+    "stop_id": 23275,
+    "stop_name": "선정릉역.국가무형유산전수교육관",
+    "peak_hour": 8,
+    "avg_total": 2444.2
+  },
+  {
+    "stop_id": 23276,
+    "stop_name": "선릉역",
+    "peak_hour": 8,
+    "avg_total": 2744.0
+  },
+  {
+    "stop_id": 23277,
+    "stop_name": "서울상록회관.한국기술센터",
+    "peak_hour": 8,
+    "avg_total": 3494.2
+  },
+  {
+    "stop_id": 23278,
+    "stop_name": "KT강남지사",
+    "peak_hour": 18,
+    "avg_total": 1975.7
+  },
+  {
+    "stop_id": 23279,
+    "stop_name": "KT강남지사",
+    "peak_hour": 8,
+    "avg_total": 1798.0
+  },
+  {
+    "stop_id": 23280,
+    "stop_name": "아가방빌딩.하나은행",
+    "peak_hour": 18,
+    "avg_total": 3017.5
+  },
+  {
+    "stop_id": 23281,
+    "stop_name": "역삼역7번출구.GS타워",
+    "peak_hour": 8,
+    "avg_total": 4911.2
+  },
+  {
+    "stop_id": 23282,
+    "stop_name": "역삼역6번출구",
+    "peak_hour": 8,
+    "avg_total": 4008.2
+  },
+  {
+    "stop_id": 23283,
+    "stop_name": "역삼역4번출구",
+    "peak_hour": 18,
+    "avg_total": 2705.9
+  },
+  {
+    "stop_id": 23284,
+    "stop_name": "강남역12번출구",
+    "peak_hour": 18,
+    "avg_total": 3388.7
+  },
+  {
+    "stop_id": 23285,
+    "stop_name": "강남역11번출구",
+    "peak_hour": 18,
+    "avg_total": 1851.8
+  },
+  {
+    "stop_id": 23286,
+    "stop_name": "신논현역6번출구",
+    "peak_hour": 8,
+    "avg_total": 2257.5
+  },
+  {
+    "stop_id": 23287,
+    "stop_name": "강남역1번출구.역삼세무서",
+    "peak_hour": 8,
+    "avg_total": 4554.0
+  },
+  {
+    "stop_id": 23288,
+    "stop_name": "역삼역.포스코타워역삼",
+    "peak_hour": 9,
+    "avg_total": 3114.5
+  },
+  {
+    "stop_id": 23289,
+    "stop_name": "영동중앙교회",
+    "peak_hour": 8,
+    "avg_total": 1480.5
+  },
+  {
+    "stop_id": 23290,
+    "stop_name": "강남구보건소",
+    "peak_hour": 18,
+    "avg_total": 1463.2
+  },
+  {
+    "stop_id": 23291,
+    "stop_name": "역삼럭키아파트.역삼월드메르디앙아파트",
+    "peak_hour": 18,
+    "avg_total": 2592.2
+  },
+  {
+    "stop_id": 23292,
+    "stop_name": "역삼초등학교",
+    "peak_hour": 8,
+    "avg_total": 598.7
+  },
+  {
+    "stop_id": 23293,
+    "stop_name": "역삼초등학교",
+    "peak_hour": 18,
+    "avg_total": 641.9
+  },
+  {
+    "stop_id": 23294,
+    "stop_name": "뱅뱅사거리.역삼동",
+    "peak_hour": 8,
+    "avg_total": 1954.0
+  },
+  {
+    "stop_id": 23295,
+    "stop_name": "역삼초등학교",
+    "peak_hour": 8,
+    "avg_total": 579.6
+  },
+  {
+    "stop_id": 23296,
+    "stop_name": "역삼2동주민센터.대림역삼아파트",
+    "peak_hour": 8,
+    "avg_total": 1383.8
+  },
+  {
+    "stop_id": 23297,
+    "stop_name": "래미안그레이튼아파트",
+    "peak_hour": 8,
+    "avg_total": 1096.6
+  },
+  {
+    "stop_id": 23298,
+    "stop_name": "역삼자이아파트",
+    "peak_hour": 18,
+    "avg_total": 1096.2
+  },
+  {
+    "stop_id": 23299,
+    "stop_name": "역삼동성당.역삼자이아파트",
+    "peak_hour": 8,
+    "avg_total": 1231.7
+  },
+  {
+    "stop_id": 23300,
+    "stop_name": "역삼동개나리아파트",
+    "peak_hour": 16,
+    "avg_total": 1326.7
+  },
+  {
+    "stop_id": 23301,
+    "stop_name": "역삼동개나리아파트",
+    "peak_hour": 17,
+    "avg_total": 872.2
+  },
+  {
+    "stop_id": 23302,
+    "stop_name": "총지사",
+    "peak_hour": 8,
+    "avg_total": 1457.8
+  },
+  {
+    "stop_id": 23303,
+    "stop_name": "총지사",
+    "peak_hour": 18,
+    "avg_total": 770.4
+  },
+  {
+    "stop_id": 23304,
+    "stop_name": "영동중앙교회",
+    "peak_hour": 17,
+    "avg_total": 1483.3
+  },
+  {
+    "stop_id": 23305,
+    "stop_name": "대한사회복지회",
+    "peak_hour": 8,
+    "avg_total": 3416.4
+  },
+  {
+    "stop_id": 23306,
+    "stop_name": "한국자산신탁.센터필드",
+    "peak_hour": 8,
+    "avg_total": 2440.5
+  },
+  {
+    "stop_id": 23307,
+    "stop_name": "진선여자중고등학교",
+    "peak_hour": 16,
+    "avg_total": 2966.8
+  },
+  {
+    "stop_id": 23308,
+    "stop_name": "역삼e-편한세상아파트",
+    "peak_hour": 18,
+    "avg_total": 2805.2
+  },
+  {
+    "stop_id": 23309,
+    "stop_name": "한티역",
+    "peak_hour": 18,
+    "avg_total": 2461.5
+  },
+  {
+    "stop_id": 23310,
+    "stop_name": "한티역7번출구",
+    "peak_hour": 8,
+    "avg_total": 4214.7
+  },
+  {
+    "stop_id": 23311,
+    "stop_name": "역삼중학교.강남세브란스병원",
+    "peak_hour": 8,
+    "avg_total": 2917.2
+  },
+  {
+    "stop_id": 23312,
+    "stop_name": "도곡1차아이파크.역삼청소년수련관",
+    "peak_hour": 8,
+    "avg_total": 3271.6
+  },
+  {
+    "stop_id": 23313,
+    "stop_name": "총지사",
+    "peak_hour": 18,
+    "avg_total": 2344.0
+  },
+  {
+    "stop_id": 23314,
+    "stop_name": "도곡1동주민센터.역삼럭키아파트",
+    "peak_hour": 8,
+    "avg_total": 3033.8
+  },
+  {
+    "stop_id": 23315,
+    "stop_name": "도곡1차아이파크.도곡중학교",
+    "peak_hour": 8,
+    "avg_total": 2171.7
+  },
+  {
+    "stop_id": 23316,
+    "stop_name": "매봉삼성아파트SK리더스뷰",
+    "peak_hour": 8,
+    "avg_total": 1509.2
+  },
+  {
+    "stop_id": 23317,
+    "stop_name": "매봉역양재최의원",
+    "peak_hour": 8,
+    "avg_total": 2202.5
+  },
+  {
+    "stop_id": 23318,
+    "stop_name": "양재역말죽거리.강남베드로병원",
+    "peak_hour": 8,
+    "avg_total": 3114.9
+  },
+  {
+    "stop_id": 23319,
+    "stop_name": "뱅뱅사거리.구영동중학교",
+    "peak_hour": 8,
+    "avg_total": 2168.6
+  },
+  {
+    "stop_id": 23320,
+    "stop_name": "고속철도수서역",
+    "peak_hour": 18,
+    "avg_total": 242.6
+  },
+  {
+    "stop_id": 23321,
+    "stop_name": "뱅뱅사거리뱅뱅프라자",
+    "peak_hour": 8,
+    "avg_total": 2533.2
+  },
+  {
+    "stop_id": 23322,
+    "stop_name": "원불교앞",
+    "peak_hour": 18,
+    "avg_total": 688.9
+  },
+  {
+    "stop_id": 23323,
+    "stop_name": "매봉역",
+    "peak_hour": 8,
+    "avg_total": 3698.1
+  },
+  {
+    "stop_id": 23324,
+    "stop_name": "도곡개포한신아파트",
+    "peak_hour": 18,
+    "avg_total": 979.7
+  },
+  {
+    "stop_id": 23325,
+    "stop_name": "개포한신.우성4차아파트",
+    "peak_hour": 18,
+    "avg_total": 736.1
+  },
+  {
+    "stop_id": 23326,
+    "stop_name": "우성캐릭터빌아파트",
+    "peak_hour": 18,
+    "avg_total": 825.0
+  },
+  {
+    "stop_id": 23327,
+    "stop_name": "군인공제회관",
+    "peak_hour": 16,
+    "avg_total": 1724.5
+  },
+  {
+    "stop_id": 23329,
+    "stop_name": "숙명여고",
+    "peak_hour": 8,
+    "avg_total": 1000.4
+  },
+  {
+    "stop_id": 23330,
+    "stop_name": "도곡렉슬아파트.강남세브란스병원",
+    "peak_hour": 17,
+    "avg_total": 2739.9
+  },
+  {
+    "stop_id": 23331,
+    "stop_name": "한티역6번출구",
+    "peak_hour": 18,
+    "avg_total": 2476.5
+  },
+  {
+    "stop_id": 23332,
+    "stop_name": "도곡렉슬아파트정문",
+    "peak_hour": 16,
+    "avg_total": 882.6
+  },
+  {
+    "stop_id": 23333,
+    "stop_name": "중대부고앞",
+    "peak_hour": 7,
+    "avg_total": 672.2
+  },
+  {
+    "stop_id": 23334,
+    "stop_name": "구룡중학교앞",
+    "peak_hour": 15,
+    "avg_total": 1171.2
+  },
+  {
+    "stop_id": 23335,
+    "stop_name": "개포1동주민센터.개포고등학교",
+    "peak_hour": 15,
+    "avg_total": 1956.4
+  },
+  {
+    "stop_id": 23336,
+    "stop_name": "개현초등학교",
+    "peak_hour": 19,
+    "avg_total": 1152.9
+  },
+  {
+    "stop_id": 23338,
+    "stop_name": "개포파크빌리지",
+    "peak_hour": 7,
+    "avg_total": 1113.1
+  },
+  {
+    "stop_id": 23339,
+    "stop_name": "구룡초교사거리",
+    "peak_hour": 7,
+    "avg_total": 1447.1
+  },
+  {
+    "stop_id": 23340,
+    "stop_name": "현대아파트경남아파트",
+    "peak_hour": 8,
+    "avg_total": 999.1
+  },
+  {
+    "stop_id": 23341,
+    "stop_name": "현대1차.우성3차아파트",
+    "peak_hour": 7,
+    "avg_total": 676.6
+  },
+  {
+    "stop_id": 23342,
+    "stop_name": "개일초등학교앞",
+    "peak_hour": 8,
+    "avg_total": 898.8
+  },
+  {
+    "stop_id": 23343,
+    "stop_name": "개포고등학교",
+    "peak_hour": 15,
+    "avg_total": 1022.4
+  },
+  {
+    "stop_id": 23344,
+    "stop_name": "개포1동주민센터",
+    "peak_hour": 8,
+    "avg_total": 1890.8
+  },
+  {
+    "stop_id": 23345,
+    "stop_name": "래미안블레스티지아파트",
+    "peak_hour": 8,
+    "avg_total": 3114.7
+  },
+  {
+    "stop_id": 23346,
+    "stop_name": "개포도서관",
+    "peak_hour": 16,
+    "avg_total": 472.1
+  },
+  {
+    "stop_id": 23347,
+    "stop_name": "수도전기공고후문",
+    "peak_hour": 7,
+    "avg_total": 428.7
+  },
+  {
+    "stop_id": 23348,
+    "stop_name": "수도전기공고후문",
+    "peak_hour": 18,
+    "avg_total": 312.5
+  },
+  {
+    "stop_id": 23349,
+    "stop_name": "디에이치아너힐즈",
+    "peak_hour": 18,
+    "avg_total": 1083.8
+  },
+  {
+    "stop_id": 23350,
+    "stop_name": "개포자이프레지던스",
+    "peak_hour": 7,
+    "avg_total": 1604.4
+  },
+  {
+    "stop_id": 23351,
+    "stop_name": "경기여고",
+    "peak_hour": 15,
+    "avg_total": 1834.1
+  },
+  {
+    "stop_id": 23352,
+    "stop_name": "개포동역7번출구.개포시장",
+    "peak_hour": 18,
+    "avg_total": 2532.8
+  },
+  {
+    "stop_id": 23353,
+    "stop_name": "개포주공5단지경기여고",
+    "peak_hour": 7,
+    "avg_total": 2501.8
+  },
+  {
+    "stop_id": 23354,
+    "stop_name": "개포동역6번출구.개포시장",
+    "peak_hour": 8,
+    "avg_total": 2454.7
+  },
+  {
+    "stop_id": 23355,
+    "stop_name": "개포시장.개포5단지상가",
+    "peak_hour": 18,
+    "avg_total": 389.0
+  },
+  {
+    "stop_id": 23356,
+    "stop_name": "개포시장.개포5단지상가",
+    "peak_hour": 16,
+    "avg_total": 324.2
+  },
+  {
+    "stop_id": 23357,
+    "stop_name": "양전초등학교",
+    "peak_hour": 15,
+    "avg_total": 265.9
+  },
+  {
+    "stop_id": 23358,
+    "stop_name": "개포6단지앞",
+    "peak_hour": 8,
+    "avg_total": 310.1
+  },
+  {
+    "stop_id": 23359,
+    "stop_name": "디에이치자이개포아파트",
+    "peak_hour": 18,
+    "avg_total": 1719.1
+  },
+  {
+    "stop_id": 23360,
+    "stop_name": "개원중학교.대모산입구역2번출구",
+    "peak_hour": 18,
+    "avg_total": 1977.9
+  },
+  {
+    "stop_id": 23361,
+    "stop_name": "개포주공7단지앞",
+    "peak_hour": 18,
+    "avg_total": 1502.1
+  },
+  {
+    "stop_id": 23362,
+    "stop_name": "일원초등학교",
+    "peak_hour": 8,
+    "avg_total": 1933.2
+  },
+  {
+    "stop_id": 23363,
+    "stop_name": "현대아파트",
+    "peak_hour": 19,
+    "avg_total": 835.1
+  },
+  {
+    "stop_id": 23364,
+    "stop_name": "개포래미안포레스트",
+    "peak_hour": 18,
+    "avg_total": 1391.4
+  },
+  {
+    "stop_id": 23365,
+    "stop_name": "능인선원앞",
+    "peak_hour": 8,
+    "avg_total": 178.2
+  },
+  {
+    "stop_id": 23366,
+    "stop_name": "구룡산입구",
+    "peak_hour": 16,
+    "avg_total": 33.5
+  },
+  {
+    "stop_id": 23367,
+    "stop_name": "능인선원앞",
+    "peak_hour": 10,
+    "avg_total": 294.3
+  },
+  {
+    "stop_id": 23368,
+    "stop_name": "구룡사입구",
+    "peak_hour": 8,
+    "avg_total": 1224.5
+  },
+  {
+    "stop_id": 23369,
+    "stop_name": "국악고교사거리",
+    "peak_hour": 8,
+    "avg_total": 2236.7
+  },
+  {
+    "stop_id": 23370,
+    "stop_name": "삼호물산",
+    "peak_hour": 18,
+    "avg_total": 3521.0
+  },
+  {
+    "stop_id": 23371,
+    "stop_name": "구룡초등학교",
+    "peak_hour": 15,
+    "avg_total": 389.0
+  },
+  {
+    "stop_id": 23372,
+    "stop_name": "광수빌딩",
+    "peak_hour": 8,
+    "avg_total": 451.2
+  },
+  {
+    "stop_id": 23373,
+    "stop_name": "국민은행그린공원",
+    "peak_hour": 18,
+    "avg_total": 809.3
+  },
+  {
+    "stop_id": 23374,
+    "stop_name": "포이사거리삼호물산",
+    "peak_hour": 17,
+    "avg_total": 750.5
+  },
+  {
+    "stop_id": 23375,
+    "stop_name": "포이사거리삼호물산",
+    "peak_hour": 8,
+    "avg_total": 1183.0
+  },
+  {
+    "stop_id": 23376,
+    "stop_name": "국민은행그린공원",
+    "peak_hour": 18,
+    "avg_total": 881.6
+  },
+  {
+    "stop_id": 23377,
+    "stop_name": "광수빌딩",
+    "peak_hour": 18,
+    "avg_total": 669.8
+  },
+  {
+    "stop_id": 23378,
+    "stop_name": "개포지구대",
+    "peak_hour": 8,
+    "avg_total": 381.3
+  },
+  {
+    "stop_id": 23379,
+    "stop_name": "구룡초등학교",
+    "peak_hour": 8,
+    "avg_total": 748.2
+  },
+  {
+    "stop_id": 23380,
+    "stop_name": "수서삼성아파트앞",
+    "peak_hour": 7,
+    "avg_total": 1301.2
+  },
+  {
+    "stop_id": 23381,
+    "stop_name": "일원본동주민센터",
+    "peak_hour": 16,
+    "avg_total": 2644.6
+  },
+  {
+    "stop_id": 23382,
+    "stop_name": "푸른마을아파트앞",
+    "peak_hour": 16,
+    "avg_total": 1863.8
+  },
+  {
+    "stop_id": 23383,
+    "stop_name": "상록수아파트앞",
+    "peak_hour": 22,
+    "avg_total": 625.3
+  },
+  {
+    "stop_id": 23384,
+    "stop_name": "일원본동주민센터",
+    "peak_hour": 17,
+    "avg_total": 1417.8
+  },
+  {
+    "stop_id": 23385,
+    "stop_name": "수서119안전센터앞",
+    "peak_hour": 18,
+    "avg_total": 1309.1
+  },
+  {
+    "stop_id": 23386,
+    "stop_name": "삼성서울병원정문",
+    "peak_hour": 7,
+    "avg_total": 548.1
+  },
+  {
+    "stop_id": 23387,
+    "stop_name": "삼성서울병원정문건너편",
+    "peak_hour": 17,
+    "avg_total": 380.3
+  },
+  {
+    "stop_id": 23388,
+    "stop_name": "일원역7번출구",
+    "peak_hour": 16,
+    "avg_total": 351.5
+  },
+  {
+    "stop_id": 23389,
+    "stop_name": "삼성서울병원후문",
+    "peak_hour": 17,
+    "avg_total": 1814.3
+  },
+  {
+    "stop_id": 23392,
+    "stop_name": "삼성서울병원사거리",
+    "peak_hour": 16,
+    "avg_total": 628.1
+  },
+  {
+    "stop_id": 23393,
+    "stop_name": "강남한양수자인아파트",
+    "peak_hour": 7,
+    "avg_total": 549.3
+  },
+  {
+    "stop_id": 23394,
+    "stop_name": "강남한양수자인아파트",
+    "peak_hour": 18,
+    "avg_total": 594.0
+  },
+  {
+    "stop_id": 23395,
+    "stop_name": "대치아파트.대모산입구역3번출구",
+    "peak_hour": 8,
+    "avg_total": 2571.2
+  },
+  {
+    "stop_id": 23397,
+    "stop_name": "대청역",
+    "peak_hour": 18,
+    "avg_total": 539.5
+  },
+  {
+    "stop_id": 23398,
+    "stop_name": "마루공원",
+    "peak_hour": 19,
+    "avg_total": 119.6
+  },
+  {
+    "stop_id": 23399,
+    "stop_name": "대청초등학교",
+    "peak_hour": 19,
+    "avg_total": 237.8
+  },
+  {
+    "stop_id": 23400,
+    "stop_name": "서울일원동우체국",
+    "peak_hour": 17,
+    "avg_total": 1347.0
+  },
+  {
+    "stop_id": 23401,
+    "stop_name": "수서역현대벤쳐빌",
+    "peak_hour": 8,
+    "avg_total": 366.0
+  },
+  {
+    "stop_id": 23402,
+    "stop_name": "수서역",
+    "peak_hour": 18,
+    "avg_total": 1386.7
+  },
+  {
+    "stop_id": 23403,
+    "stop_name": "수서역KT수서지점",
+    "peak_hour": 7,
+    "avg_total": 705.1
+  },
+  {
+    "stop_id": 23404,
+    "stop_name": "수서역1번출구",
+    "peak_hour": 8,
+    "avg_total": 5246.0
+  },
+  {
+    "stop_id": 23405,
+    "stop_name": "세곡동주민센터",
+    "peak_hour": 17,
+    "avg_total": 128.9
+  },
+  {
+    "stop_id": 23406,
+    "stop_name": "궁마을",
+    "peak_hour": 18,
+    "avg_total": 679.0
+  },
+  {
+    "stop_id": 23407,
+    "stop_name": "궁마을",
+    "peak_hour": 18,
+    "avg_total": 890.9
+  },
+  {
+    "stop_id": 23408,
+    "stop_name": "수서역",
+    "peak_hour": 18,
+    "avg_total": 11831.6
+  },
+  {
+    "stop_id": 23409,
+    "stop_name": "수서역5번출구",
+    "peak_hour": 8,
+    "avg_total": 2398.1
+  },
+  {
+    "stop_id": 23410,
+    "stop_name": "수서역.로즈데일빌딩",
+    "peak_hour": 18,
+    "avg_total": 4712.9
+  },
+  {
+    "stop_id": 23411,
+    "stop_name": "세곡동주민센터",
+    "peak_hour": 8,
+    "avg_total": 185.0
+  },
+  {
+    "stop_id": 23412,
+    "stop_name": "은곡마을.LH이편한세상",
+    "peak_hour": 8,
+    "avg_total": 1432.9
+  },
+  {
+    "stop_id": 23413,
+    "stop_name": "강남신동아파밀리에1단지",
+    "peak_hour": 18,
+    "avg_total": 654.7
+  },
+  {
+    "stop_id": 23414,
+    "stop_name": "대왕초등학교",
+    "peak_hour": 16,
+    "avg_total": 232.6
+  },
+  {
+    "stop_id": 23416,
+    "stop_name": "세곡동",
+    "peak_hour": 8,
+    "avg_total": 70.9
+  },
+  {
+    "stop_id": 23417,
+    "stop_name": "광연자동차학원앞",
+    "peak_hour": 8,
+    "avg_total": 125.5
+  },
+  {
+    "stop_id": 23418,
+    "stop_name": "삼일자동차학원.강남자동차검사소",
+    "peak_hour": 15,
+    "avg_total": 239.9
+  },
+  {
+    "stop_id": 23419,
+    "stop_name": "삼일자동차학원.강남자동차검사소",
+    "peak_hour": 11,
+    "avg_total": 292.6
+  },
+  {
+    "stop_id": 23420,
+    "stop_name": "광연자동차학원앞",
+    "peak_hour": 15,
+    "avg_total": 78.6
+  },
+  {
+    "stop_id": 23421,
+    "stop_name": "세곡동",
+    "peak_hour": 8,
+    "avg_total": 320.0
+  },
+  {
+    "stop_id": 23422,
+    "stop_name": "세곡동사거리",
+    "peak_hour": 8,
+    "avg_total": 196.1
+  },
+  {
+    "stop_id": 23423,
+    "stop_name": "방죽마을",
+    "peak_hour": 8,
+    "avg_total": 692.0
+  },
+  {
+    "stop_id": 23424,
+    "stop_name": "래미안포레아파트",
+    "peak_hour": 8,
+    "avg_total": 1300.7
+  },
+  {
+    "stop_id": 23425,
+    "stop_name": "쟁골마을",
+    "peak_hour": 7,
+    "avg_total": 540.9
+  },
+  {
+    "stop_id": 23426,
+    "stop_name": "쟁골마을",
+    "peak_hour": 18,
+    "avg_total": 630.5
+  },
+  {
+    "stop_id": 23427,
+    "stop_name": "래미안포레아파트",
+    "peak_hour": 18,
+    "avg_total": 1345.1
+  },
+  {
+    "stop_id": 23428,
+    "stop_name": "방죽마을",
+    "peak_hour": 18,
+    "avg_total": 577.1
+  },
+  {
+    "stop_id": 23429,
+    "stop_name": "압구정역3번출구",
+    "peak_hour": 18,
+    "avg_total": 3234.9
+  },
+  {
+    "stop_id": 23430,
+    "stop_name": "국민은행압구정종합금융센터",
+    "peak_hour": 9,
+    "avg_total": 2711.1
+  },
+  {
+    "stop_id": 23431,
+    "stop_name": "언주역2번출구.차병원사거리",
+    "peak_hour": 8,
+    "avg_total": 2460.6
+  },
+  {
+    "stop_id": 23432,
+    "stop_name": "영동고교앞",
+    "peak_hour": 9,
+    "avg_total": 2620.2
+  },
+  {
+    "stop_id": 23433,
+    "stop_name": "개포우성6차아파트",
+    "peak_hour": 8,
+    "avg_total": 190.9
+  },
+  {
+    "stop_id": 23434,
+    "stop_name": "은곡마을진입로",
+    "peak_hour": 8,
+    "avg_total": 293.8
+  },
+  {
+    "stop_id": 23435,
+    "stop_name": "대치유수지체육공원",
+    "peak_hour": 8,
+    "avg_total": 960.5
+  },
+  {
+    "stop_id": 23436,
+    "stop_name": "우성아파트",
+    "peak_hour": 18,
+    "avg_total": 1420.6
+  },
+  {
+    "stop_id": 23437,
+    "stop_name": "세곡푸르지오.은곡삼거리",
+    "peak_hour": 8,
+    "avg_total": 374.2
+  },
+  {
+    "stop_id": 23438,
+    "stop_name": "삼성역3번출구",
+    "peak_hour": 8,
+    "avg_total": 2733.7
+  },
+  {
+    "stop_id": 23439,
+    "stop_name": "세곡푸르지오.은곡삼거리",
+    "peak_hour": 18,
+    "avg_total": 285.2
+  },
+  {
+    "stop_id": 23440,
+    "stop_name": "LH수서아파트",
+    "peak_hour": 8,
+    "avg_total": 1391.8
+  },
+  {
+    "stop_id": 23441,
+    "stop_name": "LH수서아파트",
+    "peak_hour": 18,
+    "avg_total": 1121.8
+  },
+  {
+    "stop_id": 23442,
+    "stop_name": "세곡2지구3.4단지",
+    "peak_hour": 7,
+    "avg_total": 925.8
+  },
+  {
+    "stop_id": 23444,
+    "stop_name": "역삼1동주민센터",
+    "peak_hour": 18,
+    "avg_total": 137.6
+  },
+  {
+    "stop_id": 23445,
+    "stop_name": "개포우성아파트",
+    "peak_hour": 19,
+    "avg_total": 371.5
+  },
+  {
+    "stop_id": 23446,
+    "stop_name": "래미안강남힐즈",
+    "peak_hour": 7,
+    "avg_total": 1845.9
+  },
+  {
+    "stop_id": 23447,
+    "stop_name": "세곡중학교.세명초등학교",
+    "peak_hour": 16,
+    "avg_total": 2167.0
+  },
+  {
+    "stop_id": 23448,
+    "stop_name": "세곡중학교.세명초등학교",
+    "peak_hour": 8,
+    "avg_total": 2280.8
+  },
+  {
+    "stop_id": 23449,
+    "stop_name": "일원동한솔아파트",
+    "peak_hour": 22,
+    "avg_total": 1748.5
+  },
+  {
+    "stop_id": 23450,
+    "stop_name": "시립수서청소년센터",
+    "peak_hour": 18,
+    "avg_total": 808.8
+  },
+  {
+    "stop_id": 23453,
+    "stop_name": "포스코사거리",
+    "peak_hour": 8,
+    "avg_total": 1196.5
+  },
+  {
+    "stop_id": 23454,
+    "stop_name": "대왕초등학교",
+    "peak_hour": 8,
+    "avg_total": 285.6
+  },
+  {
+    "stop_id": 23456,
+    "stop_name": "도곡역4번출구",
+    "peak_hour": 18,
+    "avg_total": 3671.0
+  },
+  {
+    "stop_id": 23457,
+    "stop_name": "개포중학교",
+    "peak_hour": 19,
+    "avg_total": 1869.7
+  },
+  {
+    "stop_id": 23458,
+    "stop_name": "구룡마을",
+    "peak_hour": 8,
+    "avg_total": 251.9
+  },
+  {
+    "stop_id": 23459,
+    "stop_name": "디에이치퍼스티어아이파크",
+    "peak_hour": 7,
+    "avg_total": 1415.1
+  },
+  {
+    "stop_id": 23462,
+    "stop_name": "영희초등학교",
+    "peak_hour": 18,
+    "avg_total": 435.9
+  },
+  {
+    "stop_id": 23463,
+    "stop_name": "못골마을.강남자곡아이파크",
+    "peak_hour": 8,
+    "avg_total": 1813.5
+  },
+  {
+    "stop_id": 23464,
+    "stop_name": "못골마을",
+    "peak_hour": 18,
+    "avg_total": 1747.8
+  },
+  {
+    "stop_id": 23465,
+    "stop_name": "태화기독교사회복지관",
+    "peak_hour": 8,
+    "avg_total": 1295.2
+  },
+  {
+    "stop_id": 23466,
+    "stop_name": "개포도서관",
+    "peak_hour": 18,
+    "avg_total": 414.0
+  },
+  {
+    "stop_id": 23467,
+    "stop_name": "강남세곡체육공원",
+    "peak_hour": 8,
+    "avg_total": 80.0
+  },
+  {
+    "stop_id": 23468,
+    "stop_name": "도곡교회.인바디빌딩",
+    "peak_hour": 8,
+    "avg_total": 301.0
+  },
+  {
+    "stop_id": 23469,
+    "stop_name": "강남세브란스병원",
+    "peak_hour": 17,
+    "avg_total": 563.5
+  },
+  {
+    "stop_id": 23470,
+    "stop_name": "도곡교회.인바디빌딩건너",
+    "peak_hour": 8,
+    "avg_total": 156.6
+  },
+  {
+    "stop_id": 23471,
+    "stop_name": "래미안강남힐즈",
+    "peak_hour": 18,
+    "avg_total": 1989.1
+  },
+  {
+    "stop_id": 23472,
+    "stop_name": "도곡중학교.강남세브란스병원",
+    "peak_hour": 8,
+    "avg_total": 642.5
+  },
+  {
+    "stop_id": 23473,
+    "stop_name": "강남경찰서.강남운전면허시험장",
+    "peak_hour": 18,
+    "avg_total": 1974.3
+  },
+  {
+    "stop_id": 23474,
+    "stop_name": "수도공고앞",
+    "peak_hour": 16,
+    "avg_total": 90.4
+  },
+  {
+    "stop_id": 23475,
+    "stop_name": "개포4단지5단지",
+    "peak_hour": 19,
+    "avg_total": 73.5
+  },
+  {
+    "stop_id": 23476,
+    "stop_name": "개포4단지6단지",
+    "peak_hour": 19,
+    "avg_total": 37.6
+  },
+  {
+    "stop_id": 23477,
+    "stop_name": "개포4단지7단지",
+    "peak_hour": 22,
+    "avg_total": 132.7
+  },
+  {
+    "stop_id": 23478,
+    "stop_name": "마루공원",
+    "peak_hour": 8,
+    "avg_total": 147.2
+  },
+  {
+    "stop_id": 23479,
+    "stop_name": "개포동역1번출구",
+    "peak_hour": 19,
+    "avg_total": 96.8
+  },
+  {
+    "stop_id": 23480,
+    "stop_name": "세곡푸르지오",
+    "peak_hour": 18,
+    "avg_total": 773.7
+  },
+  {
+    "stop_id": 23481,
+    "stop_name": "경남아파트",
+    "peak_hour": 18,
+    "avg_total": 441.0
+  },
+  {
+    "stop_id": 23482,
+    "stop_name": "강남효성해링턴코트",
+    "peak_hour": 7,
+    "avg_total": 1213.0
+  },
+  {
+    "stop_id": 23483,
+    "stop_name": "구룡역5번출구",
+    "peak_hour": 8,
+    "avg_total": 117.6
+  },
+  {
+    "stop_id": 23484,
+    "stop_name": "구룡역1번출구",
+    "peak_hour": 19,
+    "avg_total": 102.8
+  },
+  {
+    "stop_id": 23488,
+    "stop_name": "럭키아파트",
+    "peak_hour": 8,
+    "avg_total": 835.0
+  },
+  {
+    "stop_id": 23489,
+    "stop_name": "래미안개포루체하임아파트",
+    "peak_hour": 16,
+    "avg_total": 434.1
+  },
+  {
+    "stop_id": 23491,
+    "stop_name": "수도공고",
+    "peak_hour": 19,
+    "avg_total": 83.2
+  },
+  {
+    "stop_id": 23492,
+    "stop_name": "개포4단지6단지",
+    "peak_hour": 6,
+    "avg_total": 7.1
+  },
+  {
+    "stop_id": 23493,
+    "stop_name": "개포4단지5단지",
+    "peak_hour": 15,
+    "avg_total": 15.2
+  },
+  {
+    "stop_id": 23500,
+    "stop_name": "학여울역",
+    "peak_hour": 8,
+    "avg_total": 177.3
+  },
+  {
+    "stop_id": 23501,
+    "stop_name": "학여울역",
+    "peak_hour": 8,
+    "avg_total": 147.2
+  },
+  {
+    "stop_id": 23504,
+    "stop_name": "도곡한신아파트",
+    "peak_hour": 8,
+    "avg_total": 389.4
+  },
+  {
+    "stop_id": 23505,
+    "stop_name": "현대1차아파트",
+    "peak_hour": 18,
+    "avg_total": 442.5
+  },
+  {
+    "stop_id": 23507,
+    "stop_name": "영동고등학교현대아파트",
+    "peak_hour": 18,
+    "avg_total": 3869.0
+  },
+  {
+    "stop_id": 23508,
+    "stop_name": "개포4단지7단지",
+    "peak_hour": 7,
+    "avg_total": 109.3
+  },
+  {
+    "stop_id": 23509,
+    "stop_name": "총회회관.휘문고입구",
+    "peak_hour": 8,
+    "avg_total": 1147.2
+  },
+  {
+    "stop_id": 23510,
+    "stop_name": "예림당아트홀.신한은행전산센터",
+    "peak_hour": 8,
+    "avg_total": 1144.2
+  },
+  {
+    "stop_id": 23511,
+    "stop_name": "새마을운동중앙회",
+    "peak_hour": 18,
+    "avg_total": 1740.1
+  },
+  {
+    "stop_id": 23512,
+    "stop_name": "총지사",
+    "peak_hour": 8,
+    "avg_total": 1011.4
+  },
+  {
+    "stop_id": 23513,
+    "stop_name": "신한은행데이터센터",
+    "peak_hour": 18,
+    "avg_total": 850.6
+  },
+  {
+    "stop_id": 23514,
+    "stop_name": "포스코사거리",
+    "peak_hour": 8,
+    "avg_total": 185.8
+  },
+  {
+    "stop_id": 23515,
+    "stop_name": "우성3차아파트",
+    "peak_hour": 15,
+    "avg_total": 601.8
+  },
+  {
+    "stop_id": 23516,
+    "stop_name": "우성6차아파트",
+    "peak_hour": 18,
+    "avg_total": 738.5
+  },
+  {
+    "stop_id": 23517,
+    "stop_name": "포이초교",
+    "peak_hour": 8,
+    "avg_total": 533.0
+  },
+  {
+    "stop_id": 23518,
+    "stop_name": "국악중고교",
+    "peak_hour": 17,
+    "avg_total": 633.1
+  },
+  {
+    "stop_id": 23519,
+    "stop_name": "풍양빌딩",
+    "peak_hour": 8,
+    "avg_total": 366.2
+  },
+  {
+    "stop_id": 23520,
+    "stop_name": "코원에너지서비스",
+    "peak_hour": 18,
+    "avg_total": 90.2
+  },
+  {
+    "stop_id": 23521,
+    "stop_name": "코원에너지서비스",
+    "peak_hour": 8,
+    "avg_total": 89.9
+  },
+  {
+    "stop_id": 23523,
+    "stop_name": "포스코사거리교차로",
+    "peak_hour": 8,
+    "avg_total": 634.1
+  },
+  {
+    "stop_id": 23524,
+    "stop_name": "국민은행그린공원",
+    "peak_hour": 18,
+    "avg_total": 211.0
+  },
+  {
+    "stop_id": 23525,
+    "stop_name": "삼익아파트앞",
+    "peak_hour": 8,
+    "avg_total": 453.2
+  },
+  {
+    "stop_id": 23526,
+    "stop_name": "래미안포레아파트",
+    "peak_hour": 18,
+    "avg_total": 1447.2
+  },
+  {
+    "stop_id": 23527,
+    "stop_name": "디아크리온강남아파트",
+    "peak_hour": 8,
+    "avg_total": 637.8
+  },
+  {
+    "stop_id": 23528,
+    "stop_name": "세곡2지구3.4단지",
+    "peak_hour": 18,
+    "avg_total": 1043.9
+  },
+  {
+    "stop_id": 23529,
+    "stop_name": "도곡한신아파트",
+    "peak_hour": 8,
+    "avg_total": 249.5
+  },
+  {
+    "stop_id": 23530,
+    "stop_name": "강남더샵라르고오피스텔",
+    "peak_hour": 18,
+    "avg_total": 1662.2
+  },
+  {
+    "stop_id": 23531,
+    "stop_name": "한남대교전망카페",
+    "peak_hour": 17,
+    "avg_total": 2083.6
+  },
+  {
+    "stop_id": 23532,
+    "stop_name": "서울의료원후문",
+    "peak_hour": 18,
+    "avg_total": 5.8
+  },
+  {
+    "stop_id": 23533,
+    "stop_name": "구룡마을",
+    "peak_hour": 16,
+    "avg_total": 103.3
+  },
+  {
+    "stop_id": 23536,
+    "stop_name": "학동역",
+    "peak_hour": 18,
+    "avg_total": 50.2
+  },
+  {
+    "stop_id": 23537,
+    "stop_name": "은곡마을.강남신동아파밀리에",
+    "peak_hour": 18,
+    "avg_total": 2177.9
+  },
+  {
+    "stop_id": 23538,
+    "stop_name": "강남현대힐스테이트에코",
+    "peak_hour": 8,
+    "avg_total": 1543.4
+  },
+  {
+    "stop_id": 23543,
+    "stop_name": "대왕초등학교",
+    "peak_hour": 17,
+    "avg_total": 258.4
+  },
+  {
+    "stop_id": 23544,
+    "stop_name": "수서역5번출구.이마트앞",
+    "peak_hour": 8,
+    "avg_total": 3954.2
+  },
+  {
+    "stop_id": 23545,
+    "stop_name": "개포4복합문화센터.달터공원",
+    "peak_hour": 8,
+    "avg_total": 250.8
+  },
+  {
+    "stop_id": 23546,
+    "stop_name": "일원역",
+    "peak_hour": 7,
+    "avg_total": 535.3
+  },
+  {
+    "stop_id": 23552,
+    "stop_name": "삼성서울병원정문",
+    "peak_hour": 7,
+    "avg_total": 68.9
+  },
+  {
+    "stop_id": 23557,
+    "stop_name": "국민은행",
+    "peak_hour": 7,
+    "avg_total": 138.0
+  },
+  {
+    "stop_id": 23558,
+    "stop_name": "삼성서울병원본관",
+    "peak_hour": 7,
+    "avg_total": 435.8
+  },
+  {
+    "stop_id": 23562,
+    "stop_name": "한아름아파트.사이룩스오피스텔",
+    "peak_hour": 15,
+    "avg_total": 216.2
+  },
+  {
+    "stop_id": 23564,
+    "stop_name": "암센터후문.장례식장",
+    "peak_hour": 17,
+    "avg_total": 293.1
+  },
+  {
+    "stop_id": 23569,
+    "stop_name": "암센터정문",
+    "peak_hour": 17,
+    "avg_total": 274.8
+  },
+  {
+    "stop_id": 23572,
+    "stop_name": "신분당선.강남역4번출구",
+    "peak_hour": 18,
+    "avg_total": 1332.3
+  },
+  {
+    "stop_id": 23573,
+    "stop_name": "영동2교",
+    "peak_hour": 18,
+    "avg_total": 241.5
+  },
+  {
+    "stop_id": 23575,
+    "stop_name": "강남서초교육지원청",
+    "peak_hour": 8,
+    "avg_total": 144.9
+  },
+  {
+    "stop_id": 23579,
+    "stop_name": "래미안루체하임.일원동맛의거리",
+    "peak_hour": 8,
+    "avg_total": 178.4
+  },
+  {
+    "stop_id": 23586,
+    "stop_name": "영희초등학교",
+    "peak_hour": 8,
+    "avg_total": 517.0
+  },
+  {
+    "stop_id": 23595,
+    "stop_name": "개포동역8번출구",
+    "peak_hour": 15,
+    "avg_total": 77.8
+  },
+  {
+    "stop_id": 23597,
+    "stop_name": "강남우체국",
+    "peak_hour": 8,
+    "avg_total": 816.0
+  },
+  {
+    "stop_id": 23598,
+    "stop_name": "도성초등학교앞",
+    "peak_hour": 22,
+    "avg_total": 290.6
+  },
+  {
+    "stop_id": 23600,
+    "stop_name": "개포3일원1동통합주민센터",
+    "peak_hour": 16,
+    "avg_total": 822.3
+  },
+  {
+    "stop_id": 23629,
+    "stop_name": "LH이편한세상",
+    "peak_hour": 7,
+    "avg_total": 222.8
+  },
+  {
+    "stop_id": 23641,
+    "stop_name": "신논현역",
+    "peak_hour": 22,
+    "avg_total": 294.0
+  },
+  {
+    "stop_id": 23697,
+    "stop_name": "동영문화센터",
+    "peak_hour": 8,
+    "avg_total": 330.7
+  },
+  {
+    "stop_id": 23698,
+    "stop_name": "도곡2동주민센터.대치중학교",
+    "peak_hour": 17,
+    "avg_total": 308.0
+  },
+  {
+    "stop_id": 23720,
+    "stop_name": "도곡2동주민센터대치중학교",
+    "peak_hour": 15,
+    "avg_total": 278.4
+  },
+  {
+    "stop_id": 23728,
+    "stop_name": "대청역",
+    "peak_hour": 18,
+    "avg_total": 949.7
+  },
+  {
+    "stop_id": 23731,
+    "stop_name": "영동2교",
+    "peak_hour": 8,
+    "avg_total": 196.5
+  },
+  {
+    "stop_id": 23738,
+    "stop_name": "강남세브란스병원",
+    "peak_hour": 7,
+    "avg_total": 222.0
+  },
+  {
+    "stop_id": 23741,
+    "stop_name": "삼성역",
+    "peak_hour": 17,
+    "avg_total": 1263.4
+  },
+  {
+    "stop_id": 23749,
+    "stop_name": "매봉역입구",
+    "peak_hour": 18,
+    "avg_total": 1841.0
+  },
+  {
+    "stop_id": 23756,
+    "stop_name": "역삼청소년수련관.도곡1차아이파크",
+    "peak_hour": 8,
+    "avg_total": 208.0
+  },
+  {
+    "stop_id": 23815,
+    "stop_name": "영희초등학교정문",
+    "peak_hour": 16,
+    "avg_total": 243.3
+  },
+  {
+    "stop_id": 23818,
+    "stop_name": "코엑스동문",
+    "peak_hour": 18,
+    "avg_total": 1188.9
+  },
+  {
+    "stop_id": 23819,
+    "stop_name": "일원지구대",
+    "peak_hour": 17,
+    "avg_total": 271.8
+  },
+  {
+    "stop_id": 23822,
+    "stop_name": "대청초교삼거리",
+    "peak_hour": 7,
+    "avg_total": 248.9
+  },
+  {
+    "stop_id": 23823,
+    "stop_name": "대청초교삼거리",
+    "peak_hour": 17,
+    "avg_total": 276.1
+  },
+  {
+    "stop_id": 23849,
+    "stop_name": "한남대교(가상)",
+    "peak_hour": 17,
+    "avg_total": 23.1
+  },
+  {
+    "stop_id": 23850,
+    "stop_name": "한남대교(가상)",
+    "peak_hour": 11,
+    "avg_total": 52.6
+  },
+  {
+    "stop_id": 23855,
+    "stop_name": "노블발렌티웨딩홀",
+    "peak_hour": 8,
+    "avg_total": 180.7
+  },
+  {
+    "stop_id": 23856,
+    "stop_name": "양재전화국",
+    "peak_hour": 8,
+    "avg_total": 233.8
+  },
+  {
+    "stop_id": 23857,
+    "stop_name": "대치2동주민센터.래미안하이스턴",
+    "peak_hour": 8,
+    "avg_total": 825.2
+  },
+  {
+    "stop_id": 23858,
+    "stop_name": "봉은사역.삼성래미안아파트",
+    "peak_hour": 17,
+    "avg_total": 80.6
+  },
+  {
+    "stop_id": 23863,
+    "stop_name": "강남구민체육관",
+    "peak_hour": 8,
+    "avg_total": 582.2
+  },
+  {
+    "stop_id": 23866,
+    "stop_name": "LPG가스충전소",
+    "peak_hour": 8,
+    "avg_total": 707.4
+  },
+  {
+    "stop_id": 23871,
+    "stop_name": "수서역",
+    "peak_hour": 17,
+    "avg_total": 402.3
+  },
+  {
+    "stop_id": 23872,
+    "stop_name": "서울일원동우체국",
+    "peak_hour": 7,
+    "avg_total": 1627.4
+  },
+  {
+    "stop_id": 23874,
+    "stop_name": "일원지구대",
+    "peak_hour": 8,
+    "avg_total": 313.0
+  },
+  {
+    "stop_id": 23876,
+    "stop_name": "동영문화센터",
+    "peak_hour": 18,
+    "avg_total": 262.8
+  },
+  {
+    "stop_id": 23877,
+    "stop_name": "영희초등학교",
+    "peak_hour": 7,
+    "avg_total": 169.8
+  },
+  {
+    "stop_id": 23878,
+    "stop_name": "삼성서울병원정문건너편",
+    "peak_hour": 7,
+    "avg_total": 100.5
+  },
+  {
+    "stop_id": 23880,
+    "stop_name": "일원역",
+    "peak_hour": 18,
+    "avg_total": 170.3
+  },
+  {
+    "stop_id": 23883,
+    "stop_name": "강남더드림병원.도성초등학교",
+    "peak_hour": 15,
+    "avg_total": 233.7
+  },
+  {
+    "stop_id": 23884,
+    "stop_name": "대왕파출소",
+    "peak_hour": 7,
+    "avg_total": 485.2
+  },
+  {
+    "stop_id": 23893,
+    "stop_name": "강남신동아파밀리에2단지",
+    "peak_hour": 7,
+    "avg_total": 53.9
+  },
+  {
+    "stop_id": 23896,
+    "stop_name": "한신휴플러스6단지",
+    "peak_hour": 7,
+    "avg_total": 185.4
+  },
+  {
+    "stop_id": 23911,
+    "stop_name": "중동고등학교",
+    "peak_hour": 7,
+    "avg_total": 825.7
+  },
+  {
+    "stop_id": 23917,
+    "stop_name": "영희초등학교후문",
+    "peak_hour": 15,
+    "avg_total": 156.2
+  },
+  {
+    "stop_id": 23918,
+    "stop_name": "양재역4번출구",
+    "peak_hour": 18,
+    "avg_total": 4619.5
+  },
+  {
+    "stop_id": 23920,
+    "stop_name": "양재역.종합복지관",
+    "peak_hour": 8,
+    "avg_total": 4213.5
+  },
+  {
+    "stop_id": 23921,
+    "stop_name": "양재역5번출구",
+    "peak_hour": 8,
+    "avg_total": 1472.0
+  },
+  {
+    "stop_id": 23922,
+    "stop_name": "삼성역7번출구",
+    "peak_hour": 8,
+    "avg_total": 280.6
+  },
+  {
+    "stop_id": 23923,
+    "stop_name": "삼성역7번출구",
+    "peak_hour": 8,
+    "avg_total": 234.3
+  },
+  {
+    "stop_id": 23924,
+    "stop_name": "도곡중학교.강남세브란스병원",
+    "peak_hour": 8,
+    "avg_total": 137.8
+  },
+  {
+    "stop_id": 23925,
+    "stop_name": "역삼2동주민센터.래미안그레이튼아파트",
+    "peak_hour": 17,
+    "avg_total": 157.5
+  },
+  {
+    "stop_id": 23933,
+    "stop_name": "방죽마을입구",
+    "peak_hour": 7,
+    "avg_total": 24.6
+  },
+  {
+    "stop_id": 23937,
+    "stop_name": "방죽마을입구",
+    "peak_hour": 19,
+    "avg_total": 72.8
+  },
+  {
+    "stop_id": 23938,
+    "stop_name": "한신휴플러스6단지",
+    "peak_hour": 19,
+    "avg_total": 162.5
+  },
+  {
+    "stop_id": 23940,
+    "stop_name": "LH이편한세상",
+    "peak_hour": 19,
+    "avg_total": 166.8
+  },
+  {
+    "stop_id": 23941,
+    "stop_name": "은곡마을",
+    "peak_hour": 18,
+    "avg_total": 287.0
+  },
+  {
+    "stop_id": 23942,
+    "stop_name": "상업지역",
+    "peak_hour": 8,
+    "avg_total": 953.8
+  },
+  {
+    "stop_id": 23943,
+    "stop_name": "강남신동아파밀리에",
+    "peak_hour": 8,
+    "avg_total": 297.6
+  },
+  {
+    "stop_id": 23944,
+    "stop_name": "세종고등학교",
+    "peak_hour": 7,
+    "avg_total": 71.9
+  },
+  {
+    "stop_id": 23946,
+    "stop_name": "세곡푸르지오",
+    "peak_hour": 16,
+    "avg_total": 154.9
+  },
+  {
+    "stop_id": 23947,
+    "stop_name": "세곡푸르지오",
+    "peak_hour": 18,
+    "avg_total": 76.3
+  },
+  {
+    "stop_id": 23948,
+    "stop_name": "상업지역",
+    "peak_hour": 8,
+    "avg_total": 179.0
+  },
+  {
+    "stop_id": 23949,
+    "stop_name": "은곡마을",
+    "peak_hour": 8,
+    "avg_total": 60.9
+  },
+  {
+    "stop_id": 23950,
+    "stop_name": "강남스포츠문화센터",
+    "peak_hour": 8,
+    "avg_total": 80.0
+  },
+  {
+    "stop_id": 23958,
+    "stop_name": "리엔파크3단지",
+    "peak_hour": 16,
+    "avg_total": 165.0
+  },
+  {
+    "stop_id": 23960,
+    "stop_name": "포스코사거리",
+    "peak_hour": 8,
+    "avg_total": 310.0
+  },
+  {
+    "stop_id": 23961,
+    "stop_name": "서울요양원.강남구립행복요양병원",
+    "peak_hour": 8,
+    "avg_total": 133.0
+  },
+  {
+    "stop_id": 23962,
+    "stop_name": "LH이편한세상",
+    "peak_hour": 19,
+    "avg_total": 336.9
+  },
+  {
+    "stop_id": 23963,
+    "stop_name": "강남데시앙포레정문",
+    "peak_hour": 7,
+    "avg_total": 510.1
+  },
+  {
+    "stop_id": 23964,
+    "stop_name": "강남데시앙포레상가앞",
+    "peak_hour": 7,
+    "avg_total": 217.1
+  },
+  {
+    "stop_id": 23965,
+    "stop_name": "강남더샵포레스트아파트",
+    "peak_hour": 7,
+    "avg_total": 119.2
+  },
+  {
+    "stop_id": 23967,
+    "stop_name": "강남신동아파밀리에1단지",
+    "peak_hour": 7,
+    "avg_total": 116.2
+  },
+  {
+    "stop_id": 23968,
+    "stop_name": "강남더샵포레스트아파트",
+    "peak_hour": 18,
+    "avg_total": 155.8
+  },
+  {
+    "stop_id": 23969,
+    "stop_name": "강남데시앙포레상가앞",
+    "peak_hour": 19,
+    "avg_total": 212.9
+  },
+  {
+    "stop_id": 23970,
+    "stop_name": "강남데시앙포레정문",
+    "peak_hour": 18,
+    "avg_total": 100.2
+  },
+  {
+    "stop_id": 23971,
+    "stop_name": "수서교회.수서동성당앞",
+    "peak_hour": 16,
+    "avg_total": 191.1
+  },
+  {
+    "stop_id": 23972,
+    "stop_name": "수서교회.수서동성당앞",
+    "peak_hour": 7,
+    "avg_total": 56.1
+  },
+  {
+    "stop_id": 23981,
+    "stop_name": "삼성서울병원사거리",
+    "peak_hour": 17,
+    "avg_total": 970.9
+  },
+  {
+    "stop_id": 23983,
+    "stop_name": "한남대교(가상)",
+    "peak_hour": 0,
+    "avg_total": 0.2
+  },
+  {
+    "stop_id": 23993,
+    "stop_name": "강남신동아파밀리에2단지",
+    "peak_hour": 16,
+    "avg_total": 219.5
+  },
+  {
+    "stop_id": 23994,
+    "stop_name": "일원주유소.삼성서울병원후문",
+    "peak_hour": 7,
+    "avg_total": 2069.1
+  },
+  {
+    "stop_id": 23995,
+    "stop_name": "리엔파크4단지.강남데시앙파크",
+    "peak_hour": 7,
+    "avg_total": 1036.1
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "features": [
+    "hour",
+    "stop_id",
+    "avg_total"
+  ],
+  "feature_source": {
+    "hour": "사용자 입력 (0~23)",
+    "stop_id": "사용자 선택 (stop_metadata.json)",
+    "avg_total": "stop_metadata.json에서 해당 정류장의 avg_total 값"
+  },
+  "input_name": "float_input",
+  "input_dtype": "float32",
+  "labels": {
+    "0": "여유",
+    "1": "보통",
+    "2": "혼잡"
+  },
+  "accuracy": 0.8054
+}
